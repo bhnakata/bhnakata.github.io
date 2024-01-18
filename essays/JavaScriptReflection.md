@@ -11,15 +11,12 @@ labels:
 
 ## <img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
 
-*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
+*JavaScript: an object-oriented programming language.*
 
-One of my friends asked the question earlier last week -- why is it so hard to be an officer for the student branch? Why is so hard compared to working at my on-campus job? This question came after he struggled a little with bookkeeping for the student organization.
+JavaScript as an object-oriented programming language is very versatile. It can be used in ways that C++ can not be used. Such as being able to assign a true or false value to a character. This was shown in the ‘IsUnique’ module. The WODs are very useful to better understand how JavaScript works as a programming language. Even though it is stressful to code in a time limit. I think it is helpful to try and practice the WODs because it helps me think of the process of programming. I think JavaScript can be used more easily when starting from scratch, however it will be more difficult to comprehend already existing code. This is because there are many features that easily overlap, which increase the difficulty. For example in C++, to create a function that can only accept certain types of code of ‘int’, ‘char’, ‘signed’, etc. The function will only work properly when given a certain type of value. The ‘int’ will only accept numbers, while the ‘char’ will accept characters. In JavaScript, the labels for data type can be vague. This means you can create a function that can accept any type of input. Whether it be a character, string, or number. This makes it easier to create a function that needs less care about the input value which can be used in more ways.
+There is also the new ES6 content for JavaScript which makes it easier to understand. The ‘let’ data type basically makes a variable that can be declared once. Which is the same in a lot of other languages. The ‘let’ can be a string, character, integer, or like a floating point number. Overall I’m not really familiar with all changes to ES6 compared to previous iterations of JavaScript since I just started learning JavaScript. In order to better understand JavaScript, it will be important to constantly practice. The athletic software engineering module to practice is very useful to follow. Learning the basics of coding step by step for different parts can be used to understand how code can work. Which will improve coding experience that can be used at other times.
+Overall, JavaScript is a good programming language to build code. JavaScript can be versatile in how it handles variables, but needs to take in consideration of variables storing different data types. 
 
-Now I gave him the standard answer - being an officer of an organization requires that you manage your time between school and work. There isn't anyone telling you what to do. It's the answer any good mentor would give, and is mostly true.
-
-But the more I though about it, the more I wondered to myself...damn that's a really great question; it's one that deserves some more thought. Most people I think stop at the answer I gave previously - he obviously isn't managing his time properly.
-
-Here's what I think: the difficult things will always be difficult.
 
 ## In the context of programming
 
