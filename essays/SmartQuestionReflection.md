@@ -6,5 +6,7 @@ title: "Smart Questions Reflection"
 date: 2024-01-25
 published: true
 labels:
-  - Engineering
+  - Learning
 ---
+
+*Smart Questions*
