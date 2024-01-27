@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-published: true
+published: false
 title: Project2
 date: 2019
 labels:
