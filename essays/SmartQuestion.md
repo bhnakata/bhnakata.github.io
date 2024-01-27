@@ -33,10 +33,18 @@ An example of a not so smart question is on stack overflow.[https://stackoverflo
 
 
 
+
+<img width="300px" class="rounded float-start pe-4" src="../img/NotSmartQuestion.jpeg">
+
+
 ### Data set example (Python)
 An example of a smart question on stack overflow. [https://stackoverflow.com/questions/62462402/what-is-the-best-way-to-loop-over-a-large-dataset-in-python](https://stackoverflow.com/questions/62462402/what-is-the-best-way-to-loop-over-a-large-dataset-in-python) The question is "what is the best way to loop over a large data set in python?". In the post it describes the code of a for loop in python that runs through 20K 'records'. The code took 10 minutes to compile and run. The code picture shows there are 4 for loops being used. The author of the question is asking for a method to make the code more efficient. The comments that responded, pointed to a for loop used to compose another list of unique records, however no real help came from it. The question is basically open ended for methods to increase effieciency. A proposed solution was to try and merge some of the for loops to reduce the need for extra steps.
 
 
+
+
+
+<img width="300px" class="rounded float-start pe-4" src="../img/SmartQuestion.jpeg">
 
 
 # Conclusion
