@@ -17,7 +17,7 @@ JavaScript as an object-oriented programming language is very versatile. It can 
 
 
 
-<img width="300px" class="rounded float-start pe-4" src="../img/igniting/paintbrushes.jpg">
+<img width="400px" class="rounded float-start pe-4" src="../img/IsUnique.jpeg">
 
 
 
