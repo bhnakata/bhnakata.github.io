@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "JavaScript"
+title: "Importance of Coding Standards"
 # All dates must be YYYY-MM-DD format!
 date: 2024-02-08
 published: true
