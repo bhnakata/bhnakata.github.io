@@ -11,7 +11,7 @@ labels:
 
 # Importance of UI Frameworks
 <p>
-<a href=""></a>UI(User Interface) Frameworks are prebuilt libraries used to create user interfaces for code. The feature these libraries include are buttons, text color and fonts, and adjusting the alignment of texts and pictures. 
+UI(User Interface) Frameworks are prebuilt libraries used to create user interfaces for code. The feature these libraries include are buttons, text color and fonts, and adjusting the alignment of texts and pictures. 
 </p>
 <h3>
 The Significance of UI Frameworks in Web Development
@@ -22,11 +22,11 @@ The UI Framework libraries are important in reducing the time needed to organize
 
 
 # Experience with HTML and CSS
-My experience with HTML and CSS is very straight forward. The HTML file will hold the basic layout of the webpage. The parts of the html can be assigned classes, or just use the component as is in the CSS. The class or part used in the CSS can be given definitions of what type of style the code can get Such as colors, fonts, margins, size, etc.
+My experience with <a href="https://www.w3schools.com/html/">HTML</a> and CSS is very straight forward. The HTML file will hold the basic layout of the webpage. The parts of the html can be assigned classes, or just use the component as is in the CSS. The class or part used in the CSS can be given definitions of what type of style the code can get Such as colors, fonts, margins, size, etc.
 ### Example of using HTML with CSS without BootStrap
 
 My experience with using HTML to organize the user interface of a browser history webpage. My browser history website is made up of an HTML file and a CSS. The html file basically organizes the content and what the content of the webpage is. The CSS file will stylize the webpage content. The style it went with is an ivory colored background with a dark blue text color.
-<img src="../img/EssayPicture/UIFrameworks/browserhistory.png" alt="browserhistory" style="margin-left: auto; margin-right: auto;width=50%;">
+<img src="../img/EssayPicture/UIFrameworks/browserhistory.png" alt="browserhistory" style="margin-left: auto; margin-right: auto;width=auto;">
 <p>The picture above shows the picture of my browser history file using html file. This was not done with bootstrap. A picture of the style of the body from the CSS file can be shown in the picture below. The file shows the body in being assigned a background-color of ivory, a font of sans-serif, and a color of dark blue. This can show how the CSS file works to change the style of the webpage. The margin is set so the body has 10 pixels from the top, 50 pixels from the right, 10 pixels on the bottom, and 50 pixels on the left.</p>
 
 <img src="../img/EssayPicture/UIFrameworks/bhBODY.png" alt="browser history style" style="margin-left: auto; margin-right: auto;">
