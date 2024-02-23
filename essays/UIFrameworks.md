@@ -59,4 +59,4 @@ Bootstrap is very useful, in that it acts like a CSS file with predefined classe
 
 <h1>Conclusion</h1>
 
-<p>Overall the use of UI frameworks, makes creating webpages easier to create and organize code on a webpage. It just takes time to learn more about the different classes defined in the library. Similar to other libraries in coding languages, there are many predefined terms that need to be learned to best utilize bootstrap.</p>
+<p>Overall the use of UI frameworks, makes creating webpages easier to create features on a webpage. UI Frameworks are especially helpful in creating navigation bars and buttons. It just takes time to learn more about the different classes defined in the library. Similar to other libraries in coding languages, there are many predefined terms that need to be learned to best utilize bootstrap.</p>
