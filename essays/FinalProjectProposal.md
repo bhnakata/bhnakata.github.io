@@ -35,13 +35,14 @@ Gabriel White, Dmitry Gordeev, Adriel White, Timothy Lum, Adam Bell, Brandon Nak
 ## Use case ideas
 <p>Whether or not the following bullet points list all pages or not, the completed use case should show an end-to-end scenario of using the system.</p>
 <ul>
-  <li>New User is taken to home page. The home page should give users 3 options of looking at the Full List of Study Spaces, allowed to search for a study space in a search by based on tag, or send a request to administrator to add a new study space to the website.</li> 
+  <li>New User is taken to landing page. The landing page should give users 3 options of looking at the Full List of Study Spaces, allowed to search for a study space in a search by based on tag, or send a request to administrator to add a new study space to the website.</li> 
   <li>Admin goes to landing page, logs in, gets home page, able to view study space requests, and edits site.</li>
 </ul>
 
 
 ## Beyond the basics
 
-<p>The </p>
-
+<p>The website will save the information of study places with a Card and store the image. The site will also hold a label which the search can recognize to help user's navigate a space.</p>
+<p>The website will have a request form part which can only be viewed by admin.</p>
+<p>Another method besides having admin implement study spaces is to allow user's to add their own study spaces.</p>
 
