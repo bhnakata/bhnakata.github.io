@@ -16,15 +16,32 @@ Gabriel White, Dmitry Gordeev, Adriel White, Timothy Lum, Adam Bell, Brandon Nak
 
 ## Overview
 
-<p><i>The problem:</i>Students need study spaces.</p>
+<p><i>The problem:</i> Students need study spaces.</p>
 
-<p><i>The solution:</i>Create a website for all study spaces on UH Campus and list the resources of the study space.</p>
+<p><i>The solution:</i> Create a website for all study spaces on UH Campus and list the resources of the study space. The resources listed by tags.</p>
 
-## Approach
+## Mockup page ideas
+<p>Create:</p>
+<ul>
+  <li>Landing Page</li>
+  <li>Administrative Home Page</li>
+  <li>User Home Page</li>
+  <li>User profile page</li>
+  <li>Full List of Study Spaces Page</li>
+  <li>Study Place Proposal Form</li>
+</ul>
+
 
 ## Use case ideas
+<p>Whether or not the following bullet points list all pages or not, the completed use case should show an end-to-end scenario of using the system.</p>
+<ul>
+  <li>New User is taken to home page. The home page should give users 3 options of looking at the Full List of Study Spaces, allowed to search for a study space in a search by based on tag, or send a request to administrator to add a new study space to the website.</li> 
+  <li>Admin goes to landing page, logs in, gets home page, able to view study space requests, and edits site.</li>
+</ul>
+
 
 ## Beyond the basics
 
+<p>The </p>
 
 
