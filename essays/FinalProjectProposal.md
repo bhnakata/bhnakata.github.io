@@ -16,7 +16,7 @@ Gabriel White, Dmitry Gordeev, Adriel White, Timothy Lum, Adam Bell, Brandon Nak
 
 ## Overview
 
-<p><i>The problem:</i> Students need study spaces.</p>
+<p><i>The problem:</i> Students need study spaces, or want to try studying at a different place around campus.</p>
 
 <p><i>The solution:</i> Create a website for all study spaces on UH Campus and list the resources of the study space. The resources listed by tags.</p>
 
