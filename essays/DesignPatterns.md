@@ -40,9 +40,9 @@ The builder method is to separate the builder function from the definition of th
 <p>I personally feel that creational design is a very useful method to make creating code easier. However, creational design pattern basically requires the coder to map out the full strucure of the code before hand. Such as deciding what the overall structure of the entire code will be like, and what the code in the design will accomplish for each different part. Since the code can be abstract it is important to name them properly to keep track of the data, and which data is being used.</p>
 
 <p>An example of creational design I used was in the program digits which was created to build a database of contacts and be able to display the contacts in the database to the account that created the contact. A picture of the contact list is shown below.</p>
-<img width="400px" class="rounded float-start pe-4" src="../img/EssayPicture/DesignPatterns/digitsList.png">
+<p><img width="600px" src="../img/EssayPicture/DesignPatterns/digitsList.png"></p>
 <p>The code uses a builder method in order to create an instance for a new contact. The contact data structure is built separately from the builder. In the code, there is a 'Contact' data structure which will define the contact's first name,  last name, address, description, and picture. The builder has a function that can build contacts for the contact list based on the 'Contact' structure. The picture shows the 2 different contacts that added to the contact list to display. The builder method is based on adding the information to the picture below and submitting the information to be created and sent to the database.</p>
-<img width="400px" class="rounded float-start pe-4" src="../img/EssayPicture/DesignPatterns/digitsAddContact.png">
+<p><img src="../img/EssayPicture/DesignPatterns/digitsAddContact.png"></p>
 
 
 ### Structural Design Pattern
@@ -50,10 +50,10 @@ The builder method is to separate the builder function from the definition of th
 
 ### Experience with Structural Design Pattern
 <p>An example of a structural design is when coding a program to define the structure of a class. During the semester when working on the digits project there was a list contact page, which will display the contacts associated with the account. The end result is shown in the picture below.</p>
-<img width="400px" class="rounded float-start pe-4" src="../img/EssayPicture/DesignPatterns/digitsList.png">
+<img src="../img/EssayPicture/DesignPatterns/digitsList.png">
 
 <p>Below is the structure of Contact. The structural design part is associating the 2 components of contact and notes to the Contact. So every Contact will have the contact information and teh notes associated with the Contact.</p>
-<img width="600px" class="rounded float-end pe-4" src="../img/EssayPicture/DesignPatterns/digitsContact.png">
+<img src="../img/EssayPicture/DesignPatterns/digitsContact.png">
 
 
 
@@ -64,10 +64,10 @@ The builder method is to separate the builder function from the definition of th
 ### Experience with Behavioral Design Pattern
 <p>An example would be in digits.</p>
 <p>In order to code to build the web page it is important to understand the ContactsList which will hold the members of contacts. Then setup the webpage to display the code based on the structure of the contact. Below is a picture of the code ListPage returns. Which is basically returning the contact and the notes associated with the contact.</p>
-<img width="600px" class="rounded float-end pe-4" src="../img/EssayPicture/DesignPatterns/digitsListPage.png">
+<img width="600px" src="../img/EssayPicture/DesignPatterns/digitsListPage.png">
 <p>The code shows that the Contact will take 2 items from 2 different lists of contacts and notes. The contacts list will only return if the userId is associated with the logged in account.</p>
 <p>Below is a picture of the structure of the Contact and the parts of the contact and notes. There is a hierarchy between the data components. The contact has components of firstName, lastName, address, image, description, owner, and id. The notes has a component of note, contactId, owner, and CreatedAt. Then the overall belongs to the Contact.</p>
-<img width="600px" class="rounded float-end pe-4" src="../img/EssayPicture/DesignPatterns/digitsContact.png">
+<img width="600px" src="../img/EssayPicture/DesignPatterns/digitsContact.png">
 <p>The picture shows that the Contact is composed of a component called contact and a component called notes. This is how structural design can be used to link 2 different objects with different classes using a hierarchy. The Contact is what holds contact and notes in its data structure.</p>
 
 
