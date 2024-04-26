@@ -42,7 +42,7 @@ The builder method is to separate the builder function from the definition of th
 <p>An example of creational design I used was in the program digits which was created to build a database of contacts and be able to display the contacts in the database to the account that created the contact. A picture of the contact list is shown below.</p>
 <p><img width="600px" src="../img/EssayPicture/DesignPatterns/digitsList.png"></p>
 <p>The code uses a builder method in order to create an instance for a new contact. The contact data structure is built separately from the builder. In the code, there is a 'Contact' data structure which will define the contact's first name,  last name, address, description, and picture. The builder has a function that can build contacts for the contact list based on the 'Contact' structure. The picture shows the 2 different contacts that added to the contact list to display. The builder method is based on adding the information to the picture below and submitting the information to be created and sent to the database.</p>
-<p><img src="../img/EssayPicture/DesignPatterns/digitsAddContact.png"></p>
+<p><img width="600px" src="../img/EssayPicture/DesignPatterns/digitsAddContact.png"></p>
 
 
 ### Structural Design Pattern
@@ -50,10 +50,10 @@ The builder method is to separate the builder function from the definition of th
 
 ### Experience with Structural Design Pattern
 <p>An example of a structural design is when coding a program to define the structure of a class. During the semester when working on the digits project there was a list contact page, which will display the contacts associated with the account. The end result is shown in the picture below.</p>
-<img src="../img/EssayPicture/DesignPatterns/digitsList.png">
+<img width="600px" src="../img/EssayPicture/DesignPatterns/digitsList.png">
 
 <p>Below is the structure of Contact. The structural design part is associating the 2 components of contact and notes to the Contact. So every Contact will have the contact information and teh notes associated with the Contact.</p>
-<img src="../img/EssayPicture/DesignPatterns/digitsContact.png">
+<img width="600px" src="../img/EssayPicture/DesignPatterns/digitsContact.png">
 
 
 
