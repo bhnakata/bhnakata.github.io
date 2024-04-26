@@ -62,8 +62,8 @@ The builder method is to separate the builder function from the definition of th
 <p>So basically the behavioral design focuses on how different classes, objects interact with each other.</p>
 
 ### Experience with Behavioral Design Pattern
-<p>An example would be in digits.</p>
-<p>In order to code to build the web page it is important to understand the ContactsList which will hold the members of contacts. Then setup the webpage to display the code based on the structure of the contact. Below is a picture of the code ListPage returns. Which is basically returning the contact and the notes associated with the contact.</p>
+
+<p>An example of behavioral design used would be in digits. In order to code to build the web page it is important to understand the ContactsList which will hold the members of contacts. Then setup the webpage to display the code based on the structure of the contact. Below is a picture of the code ListPage returns. Which is basically returning the contact and the notes associated with the contact.</p>
 <img width="600px" src="../img/EssayPicture/DesignPatterns/digitsListPage.png">
 <p>The code shows that the Contact will take 2 items from 2 different lists of contacts and notes. The contacts list will only return if the userId is associated with the logged in account.</p>
 <p>Below is a picture of the structure of the Contact and the parts of the contact and notes. There is a hierarchy between the data components. The contact has components of firstName, lastName, address, image, description, owner, and id. The notes has a component of note, contactId, owner, and CreatedAt. Then the overall belongs to the Contact.</p>
