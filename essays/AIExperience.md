@@ -14,7 +14,7 @@ labels:
 AI(Artificial Intelligence) is a tool that simulates human interactions. Using AI can make it easier to research solutions to problems. This is due to AI being able to search and sift through infromtation from the internet to find the answer.
   AI can also help analyze information, such as being able to analyze a basic template for an essay and help give sub-topics in what order  in order to help students write essays. AI is also very helpful to software engineering because it can help pull up reference code for problems from the internet so students can reference it. There are limits to this, based on if the problem has a solution on the internet. Sometimes AI can only pull up similar solutions. This means it is still important for software engineers to still be able to understand the coding concepts used in the code in order to make sure it does what is required.
   Throughout the semester of Spring 2024, I have used AI such as ChatGPT, Bing Copilot, and Google Bard to help with coding and organizing essays.
-</p
+</p>
 
 ### II. Personal Experience with AI:
 I have used AI in class this semester in the following areas:
