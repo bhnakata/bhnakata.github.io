@@ -1,6 +1,7 @@
 ---
 layout: project
 type: project
+image: img/AnimalFarm.png
 published: true
 title: Animal Farm
 date: 2023
