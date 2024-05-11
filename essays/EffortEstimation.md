@@ -21,3 +21,5 @@ labels:
 <p>
   For a first time working on a project as a team, I wouldn't say it was completely bad, but we probably should have communicated more about the basics of the components so we were using the same types of code when working.
 </p>
+<h3>Challenge</h3>
+<p>The greatest challenge I probably face was probably just the first deployment of the project onto digital ocean. I spend around 150 minutes just researching the reasons why my computer wasn't uploading the project with errors. The worst part is my laptop would take 40 minutes to an hour just to do a deployment. So even if there were errors it would take about 40 minutes just to wait to do another attempt. I didn't include this part of the time in the effort estimation since just waiting for a computer to complete a program is not considered effort to me. I had about 13 failed deployments. I even adjusted my administrator rights on the computer on and off to see if I could find the problem. At least I was finally able to get it working in the end thorugh a lot of ChatGPT analyses.</p>
